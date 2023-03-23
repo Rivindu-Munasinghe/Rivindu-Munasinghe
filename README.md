@@ -1,3 +1,4 @@
+![logo](https://github.com/Rivindu-Munasinghe/Rivindu-Munasinghe/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rivindu Munasinghe</h1>
 <h3 align="center">A final year Information Technology undergraduate from General Sir John Kotelawala Defence Univerity interested in Software Development.</h3>
 
