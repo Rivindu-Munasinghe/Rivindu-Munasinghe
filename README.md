@@ -13,11 +13,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rivindumunasin2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rivindumunasin2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rivindu munasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rivindu munasinghe" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rivindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rivindu" height="30" width="40" /></a>
-<a href="https://fb.com/rivindu munasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rivindu munasinghe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rivindu-munasinghe-0a98a8176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rivindu munasinghe" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16336836/rivindu?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rivindu" height="30" width="40" /></a>
+<a href="https://web.facebook.com/rivindu.munasinghe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rivindu munasinghe" height="30" width="40" /></a>
 <a href="https://instagram.com/rivindutm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rivindutm" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rivindu munasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rivindu munasinghe" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thirasaramunasi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rivindu munasinghe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
